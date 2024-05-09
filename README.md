@@ -1,6 +1,6 @@
 # __Enrique Ramón Torres Gamarra__
 
-## __BACKEND DEVELOPER TRAINEE__
+## __BACKEND DEVELOPER__
 
 ### Email: enriqueramontg@gmail.com
 ### Tel: 379 4406775
@@ -9,10 +9,8 @@
 ### DNI: 37698363
 
 ## PERFIL LABORAL :nerd_face:
-Saludos, soy un estudiante de Licenciatura en Sistemas de Información, actualmente en mi tercer año, con un enfoque especializado de más de un año en el lenguaje Java. 
-Mi objetivo es sumarme a un equipo como desarrollador backend, donde pueda no solo aplicar mis habilidades técnicas, sino también continuar mi crecimiento profesional en un entorno dinámico. 
-Mi determinación, organización y pasión por aprender de manera constante me convierten en un candidato comprometido y listo para afrontar los retos del desarrollo de software. 
-Mis experiencias laborales se limitan momentaneamente a otros rubros, en los que fui resolutivo, cooperativo y autosuficiente.
+Soy Enrique, estudiante de Licenciatura en Sistemas de Información con un apasionado interés en el desarrollo backend. Mis habilidades incluyen programación en Java, con Hibernate y Spring Boot, así como familiaridad con C#, PHP, Python, HTML, CSS y JavaScript.
+Aunque carezco de experiencia laboral directa, estoy ansioso por contribuir y aprender en un entorno profesional. Me destaco por mi capacidad de adaptación, comunicación efectiva y disposición para enfrentar nuevos desafíos. Busco una oportunidad para aplicar mis conocimientos y habilidades en el desarrollo de soluciones innovadoras.
 
 ## FORMACIÓN :school:
 ### :triangular_flag_on_post: Licenciatura en Sistemas de Información
@@ -35,10 +33,10 @@ Mis experiencias laborales se limitan momentaneamente a otros rubros, en los que
 
 ## TECNOLOGÍAS :computer:
 - Familiarizado con: __HTML - CCS - BOOTSTRAP - JS__
-- Competente con: __SQL - SQLSERVER - MYSQL__
-- Familiarizado con: __GIT - GITHUB - GITLAB__
-- Competente con: __JAVA - MAVEN - HIBERNATE - SPRING BOOT__
-- Experimentando con: __C# - .NET__
+- Familiarizado con: SQL - SQLSERVER - MYSQL
+- Familiarizado con: GIT - GITHUB
+- Familiarizado con: JAVA - HIBERNATE - SPRING BOOT
+- Experimentando con: C# - PHP - Python
 
 ## EXPERIENCIAS LABORALES :construction_worker_man:
 Pintor - Albañil - Jardinero -Chofer - Remis - Vendedor - Repositor - Emprendimiento Serigráfico - Técnico de Celulares, Notebooks y PCs.
